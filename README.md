@@ -3,7 +3,7 @@
 This repository contain a sample Android project that use the QUANTEEC plugin with Exoplayer. 
 
 
-** Table of contents **
+**Table of contents**
 
 * [How to use this sample App](#how-to-use-this-sample-App)
 * [Additional documentation](#additional-documentation)
