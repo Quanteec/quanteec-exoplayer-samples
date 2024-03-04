@@ -10,7 +10,7 @@ This repository contain a sample Android project that use the QUANTEEC plugin wi
 
 ##  How to use this sample App
 
-1. [Sign up](https://register.quanteec.com/)
+1. [Sign up](https://register.quanteec.com/) to QUANTEEC
 2. Contact us by mail to gain access to our private maven repository
 3. In the settings.gradle file enter your credentials for our maven repository
 4. Get your QUANTEEC key on your [configuration page](https://panel.quanteec.com/#/config)
