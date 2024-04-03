@@ -127,7 +127,7 @@ public class QuanteecPlayerActivity extends AppCompatActivity {
             // 1 - Create a quanteecConfig with a videoID and a quanteecKey.
             //Useful if the videosource url contains a token which is different for every users. If an empty String is used : the source url is used.
 
-            quanteecConfig = new QuanteecConfig.Builder("<your-quanteec-key>").setVideoID("Quanteec Exoplayer Sample Application").build();
+            quanteecConfig = new QuanteecConfig.Builder("<your-quanteec-key>").build();
             // 2 - Create a quanteecCore by passing a Context and the QuanteecConfig
             quanteecExoCore = new QuanteecExoCore(/* context= */this, quanteecConfig);
         }

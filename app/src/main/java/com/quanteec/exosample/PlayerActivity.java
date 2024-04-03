@@ -8,11 +8,11 @@ import android.os.Build;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.google.android.exoplayer2.C;
 import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.MediaItem;
 import com.google.android.exoplayer2.trackselection.TrackSelectionParameters;
 import com.google.android.exoplayer2.ui.StyledPlayerView;
-import com.quanteec.plugin.manifest.DASH.parser.C;
 
 public class PlayerActivity extends AppCompatActivity {
 

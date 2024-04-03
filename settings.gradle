@@ -15,7 +15,7 @@ dependencyResolutionManagement {
             url 'https://maven.quanteec.com/repository/internal/'
             credentials {
                 username "<username>"
-                password "<password>"
+                password "<password"
             }
             authentication {
                 basic(BasicAuthentication)
